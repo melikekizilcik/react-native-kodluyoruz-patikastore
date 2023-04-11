@@ -4,4 +4,4 @@ Patika.dev React Native kursu ödev 1: PatikaStore (https://app.patika.dev/cours
 - Tüm istenilenler yerine getirilmiştir.
 - Json dosyasından veri alınıp FlatList yardımıyla ProductCard yapısında veriler listelenmiştir.
 
-<img  src="patikastoress.png" width="250" height="531"/>
+<img  src="patikastoress.png" width="500" height="1062"/>
